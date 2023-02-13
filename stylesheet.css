@@ -1,0 +1,214 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+.header-logo{
+    margin-left: 6px;
+    padding: 3px;
+}
+
+.header-links{
+    border-radius: 5px;
+    background-color: rgb(238, 240, 236);
+    display: flex;
+    padding: 6px;
+    padding-left: 6px;
+    margin-top: 6px;
+    width: 100%;
+}
+
+.header-links p{
+    color: gray;
+    font-family: sans-serif;
+    font-weight: 600;
+    font-size: 13px;
+}
+section{
+    margin-left: 6px;
+}
+
+#more{
+    margin-left: 20px;
+    /* padding-left: 6px; */
+}
+
+#position{
+    margin-left: 40px;
+}
+
+#club{
+    margin-left: 90px;
+}
+
+#play{
+    margin-left: 270px;
+}
+
+#win{
+    margin-left: 40px;
+}
+
+#draw{
+    margin-left: 40px;
+}
+
+#lose{
+    margin-left: 40px;
+}
+
+#goals-for{
+    margin-left: 40px;
+}
+
+#goals-against{
+    margin-left: 40px;
+}
+
+#goal-diff{
+    margin-left: 40px;
+}
+
+#points{
+    margin-left: 40px;
+}
+
+#form{
+    margin-left: 60px;
+    justify-content: center;
+}
+#next-game{
+    margin-left: 80px;
+}
+
+.more-icons{
+    margin-left: 20px;
+    margin-top: 20px;
+}
+
+.more-icons i{
+    width: 30px;
+    color: gray;
+    padding-top: 15px;
+    padding-bottom: 15px;
+    padding-left: 15px;
+    background: rgb(238, 240, 236);
+}
+
+.more-icons i:hover{
+    background: rgb(239, 6, 122);
+}
+
+.position-icons{
+    margin-left: 30px;
+    margin-top: 30px;
+    padding-left: 20px;
+}
+
+.position-icons p{
+    font-family: sans-serif;
+    font-weight: 500;
+    font-size: 13px;
+    padding-top: 10px;
+}
+
+.position-icons p i{
+    margin-left: 5px;
+}
+
+.teams-roll{
+    margin-top: 30px;
+    margin-left: 50px;
+    padding-top: 8px;
+}
+
+.teams-roll p a{
+    margin-left: 18px;
+    font-family: sans-serif;
+    font-weight: 500;
+    font-size: 15px;
+    padding-top: 5px;
+    color: black;
+    text-decoration: none;
+    /* text-underline-offset: none; */
+}
+
+.teams-roll p a:hover{
+    text-decoration: underline;
+}
+
+.teams-roll p{display: flex;
+    flex-direction: row;
+}
+
+.games-play{
+    margin-left: 125px;
+    font-family: sans-serif;
+    font-weight: 500;
+    font-size: 15px;
+    margin-top: 30px;
+    padding-top: 10px;
+}
+
+.win-bar{
+    margin-left: 60px;
+    font-family: sans-serif;
+    font-weight: 500;
+    font-size: 15px;
+    margin-top: 30px;
+    padding-top: 10px;
+}
+
+.games-draw{
+    margin-left: 60px;
+    font-family: sans-serif;
+    font-weight: 500;
+    font-size: 15px;
+    margin-top: 30px;
+    padding-top: 10px;
+}
+
+.games-lost{
+    margin-left: 55px;
+    font-family: sans-serif;
+    font-weight: 500;
+    font-size: 15px;
+    margin-top: 30px;
+    padding-top: 10px;
+}
+
+.goals-scored{
+    margin-left: 46px;
+    font-family: sans-serif;
+    font-weight: 500;
+    font-size: 15px;
+    margin-top: 30px;
+    padding-top: 10px;
+}
+
+.goals-conceded{
+    margin-left: 40px;
+    font-family: sans-serif;
+    font-weight: 500;
+    font-size: 15px;
+    margin-top: 30px;
+    padding-top: 10px;
+}
+
+.goals-total{
+    margin-left: 40px;
+    font-family: sans-serif;
+    font-weight: 500;
+    font-size: 15px;
+    margin-top: 30px;
+    padding-top: 10px;
+}
+
+.points-total{
+    margin-left: 45px;
+    font-family: sans-serif;
+    font-weight: 600;
+    font-size: 15px;
+    margin-top: 30px;
+    padding-top: 10px;
+}
