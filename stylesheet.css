@@ -87,11 +87,12 @@ section{
 }
 
 .more-icons i{
-    width: 30px;
+    width: 45px;
     color: gray;
     padding-top: 15px;
     padding-bottom: 15px;
     padding-left: 15px;
+    margin-top: 8px;
     background: rgb(238, 240, 236);
 }
 
@@ -130,7 +131,6 @@ section{
     padding-top: 5px;
     color: black;
     text-decoration: none;
-    /* text-underline-offset: none; */
 }
 
 .teams-roll p a:hover{
@@ -211,4 +211,8 @@ section{
     font-size: 15px;
     margin-top: 30px;
     padding-top: 10px;
+}
+
+.form-wrapper{
+    margin-left: 20px;
 }
