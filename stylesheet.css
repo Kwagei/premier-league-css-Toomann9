@@ -24,6 +24,11 @@
     font-weight: 600;
     font-size: 13px;
 }
+
+.wrapper-inner{
+    margin-bottom: 20px;
+    margin-top: -10px;
+}
 section{
     margin-left: 6px;
 }
@@ -77,8 +82,17 @@ section{
     margin-left: 60px;
     justify-content: center;
 }
+
+#form p{
+    padding-left: 20px;
+}
+
 #next-game{
-    margin-left: 80px;
+    margin-left: 120px;
+}
+
+#next-game p{
+    padding-left: 10px;
 }
 
 .more-icons{
@@ -177,6 +191,14 @@ section{
     padding-top: 10px;
 }
 
+.next-game-wrapper{
+    font-family: sans-serif;
+    font-weight: 500;
+    font-size: 15px;
+    margin-left: 45px;
+    margin-top: 40px;
+}
+
 .goals-scored{
     margin-left: 46px;
     font-family: sans-serif;
@@ -214,5 +236,101 @@ section{
 }
 
 .form-wrapper{
-    margin-left: 20px;
+    margin-left: 40px;
+    margin-top: 30px;
+}
+
+.arsenal-form{
+    padding-top: 8px;
+}
+
+.mancity-form{
+    margin-top: 49.5px;
+}
+
+.man-united-form{
+    margin-top: 52px;
+}
+
+.newcastle-form{
+    margin-top: 50px;
+}
+
+.tottenham-form{
+    margin-top: 50px;
+}
+
+.brighton-form{
+    margin-top: 53px;
+}
+
+.fulham-form{
+    margin-top: 46px;
+}
+
+.brentford-form{
+    margin-top: 52px;
+}
+
+.chelsea-form{
+    margin-top: 50px;
+}
+
+.liverpool-form{
+    margin-top: 50px;
+}
+
+.aston-villa-form{
+    margin-top: 53px;
+}
+
+.crystal-palace-form{
+    margin-top: 50px;
+}
+
+.leicester-city-form{
+    margin-top: 50px;
+}
+
+.nottingham-forest-form{
+    margin-top: 50px;
+}
+
+.wolverhampton-form{
+    margin-top: 55px;
+}
+
+.west-ham-united{
+    margin-top: 53px;
+}
+
+.leeds-united-form{
+    margin-top: 50px;
+}
+
+.everton-form{
+    margin-top: 52px;
+}
+
+.bournemouth-form{
+    margin-top: 55px;
+}
+
+.southampton-form{
+    margin-top: 50px;
+}
+
+#round-box{
+    font-family: sans-serif;
+    font-weight: 600;
+    font-size: 14px;
+    width: 30px;
+    height: 30px;
+    border-radius: 50%;
+}
+
+#round-box p{
+    margin-left: 10px;
+    margin-top: 6px;
+    color: rgb(255, 255, 255);
 }
